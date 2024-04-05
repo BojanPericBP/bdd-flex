@@ -1,4 +1,4 @@
-##Getting started
+## Getting started
 
 1. run `npm install bdd-flex`
 
