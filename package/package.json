@@ -1,0 +1,21 @@
+{
+  "name": "bdd-flex",
+  "version": "1.0.0",
+  "description": "This is set of classes that helps you to with layouting your pages using display flex and flex properties",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BojanPericBP/bdd-flex.git"
+  },
+  "scripts": {
+    "test": "bdd-test"
+  },
+  "keywords": [
+    "flex",
+    "css",
+    "scss",
+    "responsive"
+  ],
+  "author": "Bojan Peric",
+  "license": "ISC"
+}
