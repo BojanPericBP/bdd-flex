@@ -1,6 +1,6 @@
 {
   "name": "bdd-flex",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is set of classes that helps you to with layouting your pages using display flex and flex properties",
   "main": "index.js",
   "repository": {
