@@ -5,6 +5,8 @@
 2. to use bdd-flex import `"node_modules/bdd-flex/src/bdd.scss"`
    in angular.json file in section `architext -> build -> styles`
 
+   Or import scss file in yout global `style.scss` like this `@import 'bdd-flex/src/bdd-flex.scss';`
+
 # Documentation
 
 ## FLEX
