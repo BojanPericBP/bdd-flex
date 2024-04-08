@@ -1,26 +1,4 @@
-$lib: "bdd-";
-
-//Break points values
-$sm: 640px;
-$md: 768px;
-$lg: 1024px;
-$xl: 1280px;
-$xxl: 1536px;
-
-//Break points names
-$break-points: (
-   xxl: $xxl,
-   xl: $xl,
-   lg: $lg,
-   md: $md,
-   sm: $sm,
-);
-
-//Padding and margins consts
-$padding-margin-sizes: 0, 1, 2, 3, 4, 5, 6, 7, 8;
-$padding-margin-const: 8px;
-
-$flex-sizes: 0, 1, 2, 3, 4, 5;
+@import "bdd-variables.scss";
 
 //#region FLEX
 .#{$lib}spacer {
